@@ -1,0 +1,5 @@
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\AutomationUITests.csproj.AssemblyReference.cache
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\AutomationUITests.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\AutomationUITests.AssemblyInfoInputs.cache
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\AutomationUITests.AssemblyInfo.cs
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\AutomationUITests.csproj.CoreCompileInputs.cache

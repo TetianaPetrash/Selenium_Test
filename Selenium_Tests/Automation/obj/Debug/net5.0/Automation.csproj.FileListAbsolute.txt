@@ -1,0 +1,16 @@
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.exe
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.deps.json
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.runtimeconfig.json
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.runtimeconfig.dev.json
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.dll
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\ref\Automation.dll
+D:\VS2019\Selenium_Tests\Automation\bin\Debug\net5.0\Automation.pdb
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.csproj.AssemblyReference.cache
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.AssemblyInfoInputs.cache
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.AssemblyInfo.cs
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.csproj.CoreCompileInputs.cache
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.dll
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\ref\Automation.dll
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.pdb
+D:\VS2019\Selenium_Tests\Automation\obj\Debug\net5.0\Automation.genruntimeconfig.cache
